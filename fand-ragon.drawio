@@ -1,1 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T14:54:38.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="c6NE-hrmwbj273Jc5fTF" version="17.0.0" type="github"><diagram id="00OnGeqAxsQ3N5cCwXf7" name="Page-1">5VhNc5swEP01OiYDyIA4GnDa6aQz7eSQ9qiADEoAuUL+yq+vJIQxhrhuJ44z6cUjPa2+3u6+lQEwKjefOF7kX1lKCuBY6QbAGDhOMPHkrwK2DeDZkwbIOE0byO6AO/pMDGgZdElTUvcMBWOFoIs+mLCqIonoYZhztu6bzVnR33WBMzIA7hJcDNF7moq8QZHjd/hnQrO83dn2gmakxK2xuUmd45St9yA4AzDijImmVW4iUijuWl6aeTcvjO4OxkklTpmwgl/WyVVSZtD7/vgrm9/zp9sr2KyywsXSXNgcVmxbBkgqCTFdxkXOMlbhYtahIWfLKiVqG0v2OptbxhYStCX4SITYGu/ipWASykVZmNFmT7XRi3czUM2WPCFHLtTGCOYZEUfsnJ0HZOQSVhLBt3IeJwUWdNU/BzYxlO3sOpplwzD9F6zbQ9ZnLggjgCzVmPoAhQM/dCwrytY5FeRugTUZa5l6Y4yuCBdkc5zTIQdmAmxT0GTuxHTXXRrYbWzneyngWWdiDX20WHVOjFX/orE6Eqz/B+22dVHenVGRCCww9UYdcIsfZOntkYYLmlWynUiOCJeAEgQqi9vUDJQ0TRv/kJo+4we9nvLQgtFK6Cu5IXDjY4piKq+Z3NW7fdcciawX9efKunZ6AtQ67mT+zdLf1F32TNh8XkvHHzpod4J/99mYyzwQIDC96Xw388E00g2NIARmExAGINTaj6T8u9omBoE2DjQyqAY5Kx+W9Z8rQb9svEZdgP26YPvDwoBG6gI6V11oX5QfR6H8UxUKXlKh/JFoH0YyVI8aZOsHjhySIS3TYWZswliFt2lAPSsAKDY2U614SNu8t9cQvPhzKDgiNodsyXuL85UGlQt1kxZq6Vpw9kQiVjC5blyxSq0yp0VxAL2GV1y35xVnRIvgiFOcs2nRMFLfQHrIhoofe+2faqlr1/TijVlZd7Ztp5L33U1Snb1ZqttN07123ivKXJtS71zn2mP2Ms0HYaj+qJlGrCt1CAK7LfTRIBDeulBP/INCjS4tWfbI54aGQCX+Uryk1A/F680fOId/fM/Im+x2X4CaZ2j3GQ3OfgM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-09T14:55:44.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eyGIID8Vjrcz29EXqcWU" version="17.0.0" type="github" pages="2">
+  <diagram id="00OnGeqAxsQ3N5cCwXf7" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3Jwc-cmg36QjqgfWrkL-1" target="v3Jwc-cmg36QjqgfWrkL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3Jwc-cmg36QjqgfWrkL-2" target="v3Jwc-cmg36QjqgfWrkL-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3Jwc-cmg36QjqgfWrkL-2" target="v3Jwc-cmg36QjqgfWrkL-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v3Jwc-cmg36QjqgfWrkL-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-2" value="是否符合买入策略" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v3Jwc-cmg36QjqgfWrkL-7" target="v3Jwc-cmg36QjqgfWrkL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-7" value="买入、并记录当前订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-9" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="355" y="270" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="v3Jwc-cmg36QjqgfWrkL-10" target="v3Jwc-cmg36QjqgfWrkL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-10" value="继续监听" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v3Jwc-cmg36QjqgfWrkL-13" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-9ZMIZ3vB44cS0Mf5x_L" name="Page-2">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="TQm6--id1rdA5ZZSLnuh-0" />
+        <mxCell id="TQm6--id1rdA5ZZSLnuh-1" parent="TQm6--id1rdA5ZZSLnuh-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
